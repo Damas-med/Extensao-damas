@@ -1,5 +1,5 @@
 const CONFIG = {
-  SHEET_ID:   "COLE_AQUI_O_ID_DA_PLANILHA",
+  SHEET_ID:   "1WQQxaogvCBhHwjgXAxztAmcOS_YRY5DXQbxPYD60OEo",
   SHEET_NAME: "Extensão",
 };
 // Colunas: A=titulo, B=professor, C=vagas, D=modalidade, E=horas_semanais, F=status, G=icone, H=imagem_url, I=link, J=cor_card
